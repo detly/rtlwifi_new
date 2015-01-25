@@ -1,0 +1,11 @@
+Source: rtlwifi-new
+Section: misc
+Priority: extra
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.5
+
+Package: rtlwifi-new
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+ Firmware for Realtek wireless cards.
