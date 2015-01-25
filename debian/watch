@@ -1,0 +1,2 @@
+version=3
+ https://github.com/detly/rtlwifi_new/tags (?:.*/)?(\d+(?:\..+)?)\.tar\.gz

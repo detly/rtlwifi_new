@@ -1,0 +1,5 @@
+rtlwifi-new (1.detly-1~trusty) trusty; urgency=medium
+
+  * Initial packaging.
+
+ -- Jason Heeris <jason@gmail.com>  Sun, 25 Jan 2015 15:49:16 +1100
